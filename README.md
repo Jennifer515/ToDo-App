@@ -4,5 +4,7 @@ Nos dirigimos al Repositorio: <br>
 $ cd ToDo-App <br>
 Ahora nos dirigimos al Proyecto: <br>
 $ cd todoApp <br>
+Ejecutamos el comando: <br>
+$ npm install <br>
 Y por último ejecutamos la aplicación: <br>
 $ ionic serve <br>
